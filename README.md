@@ -1,11 +1,12 @@
 Hello my name is Dustin dwjclark11. I am interested in learning how to program. I have been learning c++ for game development and 
-I have also been taking other course to help me grow.
+I have also been taking courses to help me grow.
 I am currently a Controls Technician in the automation field and my goal is to become a full time programmer/software developer.
 So for I have a good understanding of:
   - C/C++
   - Lua
   - I am learning python
-I am open for learning and Ideas
+  
+I am always open for learning and Ideas!
 
 Thanks
 
