@@ -3,9 +3,10 @@ I have also been taking courses to help me grow.
 I am currently a Controls Technician in the automation field and my goal is to become a full time programmer/software developer.
 
 So far I have a good understanding of:
-  - C/C++
+  - C++ 11-17
+  - C# Unity
+  - C# .Net
   - Lua
-  - Understand some JavaScript and Python learned from the CS50 course
   
 I am always open for learning and Ideas!
 
