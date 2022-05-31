@@ -1,11 +1,9 @@
 ### Hey, my name is Dustin Clark
-I work as a Controls Engineering Technologist and I am constantly learning and working 
-on my own Software Development projects! C++ is the language I like the most; however, I am open to learning more 
-languages as needed to become a better software developer.
+I am a Controls Engineering Technologist by day and an **Aspiring Software Developer** by night. I started learning software development and instantly fell in love with it. I started with C++ and keep learning everyday taking courses and expanding my knowledge and experience. I am currently learning more about Parallel Programming and Concurrency and I am constantly working on my own projects. This is fun!    
   
 I am always open for learning and Ideas!
 
-Thanks
+Aspiring Dev! 
 
 <!---
 dwjclark11/dwjclark11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
