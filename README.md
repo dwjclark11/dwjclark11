@@ -3,7 +3,7 @@ I am a Software Developer. I started learning software development and instantly
   
 I am always open for learning and Ideas!
 
-Aspiring Dev! 
+
 
 <!---
 dwjclark11/dwjclark11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
