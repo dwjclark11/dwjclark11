@@ -1,5 +1,5 @@
 ### Hey, my name is Dustin Clark
-I am a Software Developer. I started learning software development and instantly fell in love with it. I started with C++ and keep learning everyday taking courses and expanding my knowledge and experience. I am currently learning more about Parallel Programming and Concurrency and I am constantly working on my own projects. The main project that I am working on is JADE_ITE2D! This is a simple 2D game engine that I am creating as a personal project. It is not yet public, but it will be soon! This is fun!    
+I am a Software Developer. I started learning software development and instantly fell in love with it. The programming language I started with was C++. I truely enjoy this language and keep learning everyday by taking courses and expanding my knowledge and experience. I am constantly working on my own projects. The main project that I am working on is SCION2D! This is a simple 2D game engine that I am creating as a personal project on my [Youtube](https://www.youtube.com/@JADE-iteGames) channel.    
   
 I am always open for learning and Ideas!
 
