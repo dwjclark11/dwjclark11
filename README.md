@@ -1,5 +1,5 @@
 # About
-I am currently a Software Developer focusing on backend development using C++. I am constantly trying to improve my skills every day working on my own projects.
+I am currently a Software Developer working at Apocalypse Studios. I am constantly trying to improve my skills every day working on my own projects.
 I am also a father to four wonderful children. So if I am not working, I am having a good time with my children, playing games, cooking, skateboarding, etc. 
 
 # Social Media Profiles
