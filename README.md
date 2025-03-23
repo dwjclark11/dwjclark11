@@ -1,11 +1,10 @@
 # About
-I am currently a Software Developer working at Apocalypse Studios. I am constantly trying to improve my skills every day working on my own projects.
+I am currently a Software Developer. I am constantly trying to improve my skills every day working on my own projects.
 I am also a father to four wonderful children. So if I am not working, I am having a good time with my children, playing games, cooking, skateboarding, etc. 
 
 # Social Media Profiles
 * You can find me on these platforms
   * [LinkedIn](https://www.linkedin.com/in/dustin-clark-a6824989)
-  * [Twitter](https://twitter.com/Dustin_Clark_DG)
 
 # [Youtube](https://www.youtube.com/@JADE-iteGames) 
 
